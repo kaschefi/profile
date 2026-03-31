@@ -31,7 +31,7 @@ An intelligent AI assistant project showcasing natural language processing and m
 
 ## GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kaschefi&show_icons=true&theme=dark)
+![kaschefi's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaschefi&count_private=true&show_icons=true)
 
 ## What I'm Currently Working On
 
